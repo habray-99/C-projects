@@ -1,0 +1,14 @@
+D:\C#\Week1Lab\bin\Debug\net6.0\Week1Lab.exe
+D:\C#\Week1Lab\bin\Debug\net6.0\Week1Lab.deps.json
+D:\C#\Week1Lab\bin\Debug\net6.0\Week1Lab.runtimeconfig.json
+D:\C#\Week1Lab\bin\Debug\net6.0\Week1Lab.dll
+D:\C#\Week1Lab\bin\Debug\net6.0\Week1Lab.pdb
+D:\C#\Week1Lab\obj\Debug\net6.0\Week1Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Week1Lab\obj\Debug\net6.0\Week1Lab.AssemblyInfoInputs.cache
+D:\C#\Week1Lab\obj\Debug\net6.0\Week1Lab.AssemblyInfo.cs
+D:\C#\Week1Lab\obj\Debug\net6.0\Week1Lab.csproj.CoreCompileInputs.cache
+D:\C#\Week1Lab\obj\Debug\net6.0\Week1Lab.dll
+D:\C#\Week1Lab\obj\Debug\net6.0\refint\Week1Lab.dll
+D:\C#\Week1Lab\obj\Debug\net6.0\Week1Lab.pdb
+D:\C#\Week1Lab\obj\Debug\net6.0\Week1Lab.genruntimeconfig.cache
+D:\C#\Week1Lab\obj\Debug\net6.0\ref\Week1Lab.dll

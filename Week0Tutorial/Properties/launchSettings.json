@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Week0Tutorial": {
+      "commandName": "Project",
+      "commandLineArgs": "\"nepal\""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\C#\Week0Tutorial\bin\Debug\net6.0\Week0Tutorial.exe
+D:\C#\Week0Tutorial\bin\Debug\net6.0\Week0Tutorial.deps.json
+D:\C#\Week0Tutorial\bin\Debug\net6.0\Week0Tutorial.runtimeconfig.json
+D:\C#\Week0Tutorial\bin\Debug\net6.0\Week0Tutorial.dll
+D:\C#\Week0Tutorial\bin\Debug\net6.0\Week0Tutorial.pdb
+D:\C#\Week0Tutorial\obj\Debug\net6.0\Week0Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Week0Tutorial\obj\Debug\net6.0\Week0Tutorial.AssemblyInfoInputs.cache
+D:\C#\Week0Tutorial\obj\Debug\net6.0\Week0Tutorial.AssemblyInfo.cs
+D:\C#\Week0Tutorial\obj\Debug\net6.0\Week0Tutorial.csproj.CoreCompileInputs.cache
+D:\C#\Week0Tutorial\obj\Debug\net6.0\Week0Tutorial.dll
+D:\C#\Week0Tutorial\obj\Debug\net6.0\refint\Week0Tutorial.dll
+D:\C#\Week0Tutorial\obj\Debug\net6.0\Week0Tutorial.pdb
+D:\C#\Week0Tutorial\obj\Debug\net6.0\Week0Tutorial.genruntimeconfig.cache
+D:\C#\Week0Tutorial\obj\Debug\net6.0\ref\Week0Tutorial.dll
